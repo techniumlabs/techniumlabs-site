@@ -1,25 +1,29 @@
 export const menus = [
+  // {
+  //   label: "Home",
+  //   link: "#",
+  //   submenu: [
+  //     {
+  //       label: "Home Demo - 1",
+  //       link: "/",
+  //     },
+  //     {
+  //       label: "Home Demo - 2",
+  //       link: "/home-2/",
+  //     },
+  //     {
+  //       label: "Home Demo - 3",
+  //       link: "/home-3/",
+  //     },
+  //     {
+  //       label: "Home Demo - 4",
+  //       link: "/home-4/",
+  //     },
+  //   ],
+  // },
   {
     label: "Home",
-    link: "#",
-    submenu: [
-      {
-        label: "Home Demo - 1",
-        link: "/",
-      },
-      {
-        label: "Home Demo - 2",
-        link: "/home-2/",
-      },
-      {
-        label: "Home Demo - 3",
-        link: "/home-3/",
-      },
-      {
-        label: "Home Demo - 4",
-        link: "/home-4/",
-      },
-    ],
+    link: "/",
   },
   {
     label: "About Us",
@@ -27,18 +31,22 @@ export const menus = [
   },
   {
     label: "Services",
-    link: "#",
-    submenu: [
-      {
-        label: "Services",
-        link: "/services/",
-      },
-      {
-        label: "Service Details",
-        link: "/services/details/",
-      },
-    ],
+    link: "/services/",
   },
+  // {
+  //   label: "Services",
+  //   link: "#",
+  //   submenu: [
+  //     {
+  //       label: "Services",
+  //       link: "/services/",
+  //     },
+  //     {
+  //       label: "Service Details",
+  //       link: "/services/details/",
+  //     },
+  //   ],
+  // },
   // {
   //   label: "Projects",
   //   link: "#",
