@@ -19,13 +19,16 @@ const Footer: React.FC = () => {
                   <h3>About Us</h3>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
+                  We are an IT services company specializing in DevOps, data
+                  analytics, and customized LLM solutions. With a talented team
+                  based in Australia and India, we deliver innovative,
+                  high-quality technology solutions that drive business success.
+                  Our expertise ensures harmonious integration between your
+                  systems, robust analytics, and cutting-edge AI applications
+                  tailored to your needs.
                 </p>
 
-                <ul className="footer-social">
+                {/* <ul className="footer-social">
                   <li>
                     <a href="https://www.facebook.com/" target="_blank">
                       <i className="fab fa-facebook-f"></i>
@@ -49,7 +52,7 @@ const Footer: React.FC = () => {
                       <i className="fab fa-linkedin"></i>
                     </a>
                   </li>
-                </ul>
+                </ul> */}
               </div>
             </div>
 
@@ -69,9 +72,9 @@ const Footer: React.FC = () => {
                   <li>
                     <Link href="/services">Services</Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link href="/team">Team</Link>
-                  </li>
+                  </li> */}
                   <li>
                     <Link href="/contact-us">Contact</Link>
                   </li>
@@ -95,9 +98,9 @@ const Footer: React.FC = () => {
                   <li>
                     <Link href="/services">Services</Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link href="/partner">Client</Link>
-                  </li>
+                  </li> */}
                   <li>
                     <Link href="/contact">Contact</Link>
                   </li>
@@ -111,22 +114,24 @@ const Footer: React.FC = () => {
                   <h3>Contact Info</h3>
                 </div>
 
-                <div className="footer-info-contact">
+                {/* <div className="footer-info-contact">
                   <i className="flaticon-call-answer"></i>
                   <h3>Phone</h3>
-                  <span>+123(456)123</span>
-                </div>
+                  <span>+</span>
+                </div> */}
 
                 <div className="footer-info-contact">
                   <i className="flaticon-envelope"></i>
                   <h3>Email</h3>
-                  <span>hello@raxr.com</span>
+                  <span>hello@techniumlabs.io</span>
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-maps-and-flags"></i>
                   <h3>Address</h3>
-                  <span>32 st Kilda Road, Melbourne VIC, 3004 Australia</span>
+                  <span>
+                    9 dundrum grove, Kellyville Ridge, NSW, 2155 Australia
+                  </span>
                 </div>
               </div>
             </div>
@@ -156,14 +161,12 @@ const Footer: React.FC = () => {
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-6">
               <p>
-                &copy; {currentYear} Raxr. All Rights Reserved by
-                <a href="https://envytheme.com/" target="_blank">
-                  EnvyTheme
-                </a>
+                &copy; {currentYear} Technium Labs. All Rights Reserved by
+                Technium Labs
               </p>
             </div>
 
-            <div className="col-lg-6 col-md-6">
+            {/* <div className="col-lg-6 col-md-6">
               <ul>
                 <li>
                   <Link href="/terms-condition">Terms & Conditions</Link>
@@ -172,7 +175,7 @@ const Footer: React.FC = () => {
                   <Link href="/privacy-policy">Privacy Policy</Link>
                 </li>
               </ul>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

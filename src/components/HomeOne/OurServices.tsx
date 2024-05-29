@@ -10,7 +10,7 @@ const OurServices: React.FC = () => {
         <div className="container">
           <div className="section-title">
             <span>Our Services</span>
-            <h2>Expolre Our Data Services</h2>
+            <h2>Explore Our Services</h2>
           </div>
 
           <div className="row">
@@ -26,17 +26,17 @@ const OurServices: React.FC = () => {
                   <i className="flaticon-big-data"></i>
                 </div>
 
-                <h3>Big Data</h3>
+                <h3>Data Analytics and AI</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  ut enim ad minim.
+                  Our expertise extends to training custom LLM models using your
+                  domain specific data and building user-friendly chat
+                  interfaces.
                 </p>
 
-                <Link href="/services/details" className="service-btn">
+                {/* <Link href="/services/details" className="service-btn">
                   Read More
                   <i className="flaticon-right"></i>
-                </Link>
+                </Link> */}
               </div>
             </div>
 
@@ -52,17 +52,17 @@ const OurServices: React.FC = () => {
                   <i className="flaticon-data-analytics"></i>
                 </div>
 
-                <h3>Data Analytics</h3>
+                <h3>Platform modernisation</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  ut enim ad minim.
+                  We deliver secure cloud migration solutions, big data
+                  processing frameworks, and API/batch data publishing to
+                  modernize your legacy data platforms.
                 </p>
 
-                <Link href="/services/details" className="service-btn">
+                {/* <Link href="/services/details" className="service-btn">
                   Read More
                   <i className="flaticon-right"></i>
-                </Link>
+                </Link> */}
               </div>
             </div>
 
@@ -77,17 +77,17 @@ const OurServices: React.FC = () => {
                 <div className="icon">
                   <i className="flaticon-document"></i>
                 </div>
-                <h3>Managed Analytics</h3>
+                <h3>DevSecOps</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  ut enim ad minim.
+                  We aim to deliver secure, reliable, and high-performing
+                  infrastructures for applications by integrating security
+                  features throughout the CI/CD process.
                 </p>
 
-                <Link href="/services/details" className="service-btn">
+                {/* <Link href="/services/details" className="service-btn">
                   Read More
                   <i className="flaticon-right"></i>
-                </Link>
+                </Link> */}
               </div>
             </div>
 
@@ -102,17 +102,18 @@ const OurServices: React.FC = () => {
                 <div className="icon">
                   <i className="flaticon-chart"></i>
                 </div>
-                <h3>Business Intelligence</h3>
+                <h3>Full Stack Development</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  ut enim ad minim.
+                  We're full-stack experts - crafting user interfaces, building
+                  scalable APIs, and managing data with expertise across the
+                  tech stack.
+                  <div>&nbsp;</div>
                 </p>
 
-                <Link href="/services/details" className="service-btn">
+                {/* <Link href="/services/details" className="service-btn">
                   Read More
                   <i className="flaticon-right"></i>
-                </Link>
+                </Link> */}
               </div>
             </div>
 
@@ -127,17 +128,17 @@ const OurServices: React.FC = () => {
                 <div className="icon">
                   <i className="flaticon-science"></i>
                 </div>
-                <h3>Data Science</h3>
+                <h3>Serverless Solutions</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  ut enim ad minim.
+                  We leverage the power of no-code/low-code platforms to
+                  significantly accelerate the development and launch of new
+                  applications, saving you valuable time and resources.
                 </p>
 
-                <Link href="/services/details" className="service-btn">
+                {/* <Link href="/services/details" className="service-btn">
                   Read More
                   <i className="flaticon-right"></i>
-                </Link>
+                </Link> */}
               </div>
             </div>
 
@@ -152,17 +153,17 @@ const OurServices: React.FC = () => {
                 <div className="icon">
                   <i className="flaticon-data-management"></i>
                 </div>
-                <h3>Data Management</h3>
+                <h3>PaaS Management</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  ut enim ad minim.
+                  We offer solutions to develop, deploy, and manage applications
+                  in the cloud without the complexity of managing the underlying
+                  infrastructure using solutions like Kubernetes
                 </p>
 
-                <Link href="/services/details" className="service-btn">
+                {/* <Link href="/services/details" className="service-btn">
                   Read More
                   <i className="flaticon-right"></i>
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>

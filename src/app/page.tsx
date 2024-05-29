@@ -2,10 +2,10 @@ import React from "react";
 import Navbar from "../components/Layouts/Navbar";
 import MainBanner from "../components/HomeOne/MainBanner";
 import OurServices from "../components/HomeOne/OurServices";
-import AboutUs from "../components/HomeOne/AboutUs";
+import AboutUs from "../components/AboutUs/AboutUsContent";
 import FunFacts from "../components/Common/FunFacts";
 import WorkingProcess from "../components/HomeOne/WorkingProcess";
-import FeaturedService from "../components/HomeOne/FeaturedService";
+import FeaturedService from "../components/Services/FeaturedService";
 import Testimonial from "../components/Common/Testimonial";
 import GetStartedProject from "../components/Common/GetStartedProject";
 import BlogPost from "../components/Common/BlogPost";
@@ -24,23 +24,23 @@ export default function Home() {
 
       <AboutUs />
 
-      <FunFacts />
+      {/* <FunFacts /> */}
 
-      <WorkingProcess />
+      {/* <WorkingProcess /> */}
 
       <div className="pb-100">
         <FeaturedService />
       </div>
 
-      <Testimonial />
+      {/* <Testimonial /> */}
 
-      <GetStartedProject />
+      {/* <GetStartedProject /> */}
 
-      <BlogPost />
+      {/* <BlogPost /> */}
 
-      <Customers />
+      {/* <Customers /> */}
 
-      <Subscribe />
+      {/* <Subscribe /> */}
 
       <Footer />
     </>

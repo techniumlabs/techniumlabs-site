@@ -11,14 +11,11 @@ const Subscribe: React.FC = () => {
             <div className="col-lg-6 col-md-6">
               <div className="subscribe-content">
                 <h2>Sign Up For Newsletter</h2>
-                <span className="sub-title">
-                  And Receive 40% Discount On First Project
-                </span>
               </div>
             </div>
 
             <div className="col-lg-6 col-md-6">
-              <form 
+              <form
                 className="newsletter-form"
                 onSubmit={(e) => e.preventDefault()}
               >

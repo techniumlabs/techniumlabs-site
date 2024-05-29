@@ -10,7 +10,7 @@ const OurServices: React.FC = () => {
         <div className="container">
           <div className="section-title">
             <span>Our Services</span>
-            <h2>Expolre Our Data Services</h2>
+            <h2>Explore our Services</h2>
           </div>
 
           <div className="row">

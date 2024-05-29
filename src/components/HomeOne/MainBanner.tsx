@@ -19,7 +19,7 @@ const MainBanner: React.FC = () => {
                       data-aos-delay="100"
                       data-aos-duration="1200"
                     >
-                      AI and Devops Consulting
+                      DevOps and Data Engineering
                     </h1>
 
                     <div
@@ -28,10 +28,10 @@ const MainBanner: React.FC = () => {
                       data-aos-duration="1200"
                     >
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip.
+                        We bridge the gap between development and operations,
+                        streamlining data flow and innovation. Our DevOps and
+                        Data Engineering expertise unlocks insights and drives
+                        results.
                       </p>
                     </div>
 

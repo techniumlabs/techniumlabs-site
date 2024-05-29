@@ -12,38 +12,33 @@ const FeaturedService: React.FC = () => {
             <div className="col-lg-6">
               <div className="software-content">
                 <span>Our Featured Services</span>
-                <h2>Software Developement Services</h2>
+                <h2>AI and DevOps Services</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices Lorem Ipsum is simply dummy
-                  text.
+                  Technium Labs' helps enterprises design and implement robust
+                  systems capable of handling big data at lower infrastructure
+                  costs. Thus, powering the Business to implement new features
+                  with a shorter turnaround time. We provide the following
+                  services for the same
                 </p>
 
                 <ul className="features-list">
                   <li>
-                    <span>Software Development</span>
+                    <span>Big Data Analytics</span>
                   </li>
                   <li>
-                    <span>Automatic Optimization</span>
+                    <span>Platform as a Service</span>
                   </li>
                   <li>
-                    <span>Applicatication Services</span>
+                    <span>Full Stack Development</span>
                   </li>
                   <li>
-                    <span>IT Security Services</span>
+                    <span>Cloud Migration Services</span>
                   </li>
                   <li>
-                    <span>Data Analytics</span>
+                    <span>DevSecOps</span>
                   </li>
                   <li>
-                    <span>System Integration Service</span>
-                  </li>
-                  <li>
-                    <span>Help Desk Services</span>
-                  </li>
-                  <li>
-                    <span>API Integration Service</span>
+                    <span>MLOps</span>
                   </li>
                 </ul>
               </div>

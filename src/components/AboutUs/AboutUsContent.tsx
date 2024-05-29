@@ -23,14 +23,21 @@ const AboutUsContent: React.FC = () => {
             <div className="col-lg-6">
               <div className="about-content">
                 <span>About Us</span>
-                <h2>Focused On Actionable Insights</h2>
+                <h2>Our Story</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                  We noticed that as Organizations were transitioning to
+                  cloud-based systems, there was a dearth of DevOps talent. We
+                  started specializing in DevOps when working with many product
+                  companies in Bangalore itself. Thus, when couple of our
+                  colleagues moved to Australia, they saw a nice gap in the
+                  skill sets required in Australian companies, which we, as a
+                  team, could fill. Technium Labs was created not only with an
+                  eye on providing the skills needed in the CI/CD space but also
+                  to work on cutting-edge innovation products that use AI and
+                  ML.
                 </p>
 
-                <ul className="about-list">
+                {/* <ul className="about-list">
                   <li>
                     <i className="flaticon-tick"></i>
                     Professional Consultancy Service
@@ -47,7 +54,7 @@ const AboutUsContent: React.FC = () => {
                     <i className="flaticon-tick"></i>
                     Advanced Advisory Team
                   </li>
-                </ul>
+                </ul> */}
               </div>
             </div>
           </div>

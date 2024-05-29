@@ -33,7 +33,7 @@ export default function Page() {
 
       <BlogPost />
 
-      <SubscribeStyleTwo />
+      {/* <SubscribeStyleTwo /> */}
 
       <Customers />
 

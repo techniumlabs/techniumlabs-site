@@ -24,17 +24,17 @@ export default function Page() {
 
       <AboutUsContent />
 
-      <FunFacts />
+      {/* <FunFacts /> */}
 
-      <div className="pb-100">
+      {/* <div className="pb-100">
         <GetStartedProject />
-      </div>
+      </div> */}
 
-      <Testimonial />
+      {/* <Testimonial /> */}
 
-      <TeamMember />
+      {/* <TeamMember /> */}
 
-      <Customers />
+      {/* <Customers /> */}
 
       <Footer />
     </>
