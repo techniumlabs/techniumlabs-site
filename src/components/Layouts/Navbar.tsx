@@ -41,16 +41,17 @@ const Navbar: React.FC = () => {
                   src="/images/logo-white.png"
                   className="white-logo"
                   alt="logo"
-                  width={130}
+                  width={65}
                   height={38}
                 />
-                <Image
+                Technium Labs
+                {/* <Image
                   src="/images/logo-black.png"
                   className="black-logo"
                   alt="logo"
                   width={130}
                   height={38}
-                />
+                /> */}
               </Link>
 
               <button
