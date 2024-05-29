@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
       <footer className="footer-section ptb-100">
         <div className="container">
           <div className="row">
-            <div className="col-lg-4 col-md-6 col-sm-6">
+            <div className="col-lg-6 col-md-6 col-sm-6">
               <div className="single-footer-widget">
                 <div className="footer-heading">
                   <h3>About Us</h3>
@@ -81,34 +81,8 @@ const Footer: React.FC = () => {
                 </ul>
               </div>
             </div>
-
+            <div className="col-lg-2 col-md-6 col-sm-6"></div>
             <div className="col-lg-2 col-md-6 col-sm-6">
-              <div className="single-footer-widget">
-                <div className="footer-heading">
-                  <h3>Featured Service</h3>
-                </div>
-
-                <ul className="footer-quick-links">
-                  <li>
-                    <Link href="/">Home</Link>
-                  </li>
-                  {/* <li>
-                    <Link href="/blog">Blog</Link>
-                  </li> */}
-                  <li>
-                    <Link href="/services">Services</Link>
-                  </li>
-                  {/* <li>
-                    <Link href="/partner">Client</Link>
-                  </li> */}
-                  <li>
-                    <Link href="/contact">Contact</Link>
-                  </li>
-                </ul>
-              </div>
-            </div>
-
-            <div className="col-lg-4 col-md-6 col-sm-6">
               <div className="single-footer-widget">
                 <div className="footer-heading">
                   <h3>Contact Info</h3>
