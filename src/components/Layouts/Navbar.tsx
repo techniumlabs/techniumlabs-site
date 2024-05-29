@@ -75,12 +75,12 @@ const Navbar: React.FC = () => {
                   ))}
                 </ul>
 
-                <div className="others-options">
+                {/* <div className="others-options">
                   <Link href="/contact-us" className="default-btn">
                     Free Quote
                     <span></span>
                   </Link>
-                </div>
+                </div> */}
               </div>
             </nav>
           </div>

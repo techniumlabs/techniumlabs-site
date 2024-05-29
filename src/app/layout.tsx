@@ -19,23 +19,23 @@ import GoTop from "@/components/Layouts/GoTop";
 
 // For all body text font
 const open_sans = Open_Sans({
-  weight: ['300', '400', '500', '600', '700', '800'],
-  subsets: ['latin'],
-  variable: '--font-open-sans',
-  display: 'swap',
-})
+  weight: ["300", "400", "500", "600", "700", "800"],
+  subsets: ["latin"],
+  variable: "--font-open-sans",
+  display: "swap",
+});
 
 // For all heading font
 const dosis = Dosis({
-  weight: ['200', '300', '400', '500', '600', '700', '800'],
+  weight: ["200", "300", "400", "500", "600", "700", "800"],
   subsets: ["latin"],
   variable: "--font-dosis",
   display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "Raxr - React Nextjs Data Science & AI Analytics Template",
-  description: "React Nextjs Data Science & AI Analytics Template",
+  title: "Technium Labs - AI and DevOps Consulting Services",
+  description: "Technium Labs - AI and DevOps Consulting Services",
 };
 
 export default function RootLayout({

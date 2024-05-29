@@ -14,7 +14,7 @@ const ContactInfo: React.FC = () => {
                 <div className="content-title">
                   <h3>Address</h3>
                   <p>
-                    32 st Kilda Road, Melbourne VIC, <br /> 3004 Australia
+                    9 Dundrum Grove, Kellyville Ridge <br /> 2155 Australia
                   </p>
                 </div>
               </div>
@@ -25,13 +25,12 @@ const ContactInfo: React.FC = () => {
                 <i className="fa fa-envelope"></i>
                 <div className="content-title">
                   <h3>Email</h3>
-                  <p>hello@raxr.com</p>
-                  <p>fax@raxr.com</p>
+                  <p>hello@techniumlabs.io</p>
                 </div>
               </div>
             </div>
 
-            <div className="col-lg-4 col-md-6">
+            {/* <div className="col-lg-4 col-md-6">
               <div className="single-contact-box">
                 <i className="fa fa-phone"></i>
                 <div className="content-title">
@@ -40,7 +39,7 @@ const ContactInfo: React.FC = () => {
                   <p>+123 (534) 445</p>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

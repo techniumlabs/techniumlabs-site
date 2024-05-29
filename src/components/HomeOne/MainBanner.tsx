@@ -19,7 +19,7 @@ const MainBanner: React.FC = () => {
                       data-aos-delay="100"
                       data-aos-duration="1200"
                     >
-                      Big Data And Analytics
+                      AI and Devops Consulting
                     </h1>
 
                     <div

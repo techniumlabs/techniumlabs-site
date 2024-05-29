@@ -39,88 +39,88 @@ export const menus = [
       },
     ],
   },
-  {
-    label: "Projects",
-    link: "#",
-    submenu: [
-      {
-        label: "Projects",
-        link: "/projects/",
-      },
-      {
-        label: "Project Details",
-        link: "/projects/details/",
-      },
-    ],
-  },
-  {
-    label: "Pages",
-    link: "#",
-    submenu: [
-      {
-        label: "About Us",
-        link: "/about-us/",
-      },
-      {
-        label: "Team",
-        link: "/team/",
-      },
-      {
-        label: "Services",
-        link: "/services/",
-      },
-      {
-        label: "Service Details",
-        link: "/services/details/",
-      },
-      {
-        label: "Projects",
-        link: "/projects/",
-      },
-      {
-        label: "Project Details",
-        link: "/projects/details/",
-      },
-      {
-        label: "Pricing",
-        link: "/pricing/",
-      },
-      {
-        label: "Partner",
-        link: "/partner/",
-      },
-      {
-        label: "Faq",
-        link: "/faq/",
-      },
-      {
-        label: "Coming Soon",
-        link: "/coming-soon/",
-      },
-    ],
-  },
-  {
-    label: "Blog",
-    link: "#",
-    submenu: [
-      {
-        label: "Blog Grid",
-        link: "/blog/",
-      },
-      {
-        label: "Blog Right Sidebar",
-        link: "/blog/2/",
-      },
-      {
-        label: "Blog Left Sidebar",
-        link: "/blog/3/",
-      },
-      {
-        label: "Blog Details",
-        link: "/blog/details/",
-      },
-    ],
-  },
+  // {
+  //   label: "Projects",
+  //   link: "#",
+  //   submenu: [
+  //     {
+  //       label: "Projects",
+  //       link: "/projects/",
+  //     },
+  //     {
+  //       label: "Project Details",
+  //       link: "/projects/details/",
+  //     },
+  //   ],
+  // },
+  // {
+  //   label: "Pages",
+  //   link: "#",
+  //   submenu: [
+  //     {
+  //       label: "About Us",
+  //       link: "/about-us/",
+  //     },
+  //     {
+  //       label: "Team",
+  //       link: "/team/",
+  //     },
+  //     {
+  //       label: "Services",
+  //       link: "/services/",
+  //     },
+  //     {
+  //       label: "Service Details",
+  //       link: "/services/details/",
+  //     },
+  //     {
+  //       label: "Projects",
+  //       link: "/projects/",
+  //     },
+  //     {
+  //       label: "Project Details",
+  //       link: "/projects/details/",
+  //     },
+  //     {
+  //       label: "Pricing",
+  //       link: "/pricing/",
+  //     },
+  //     {
+  //       label: "Partner",
+  //       link: "/partner/",
+  //     },
+  //     {
+  //       label: "Faq",
+  //       link: "/faq/",
+  //     },
+  //     {
+  //       label: "Coming Soon",
+  //       link: "/coming-soon/",
+  //     },
+  //   ],
+  // },
+  // {
+  //   label: "Blog",
+  //   link: "#",
+  //   submenu: [
+  //     {
+  //       label: "Blog Grid",
+  //       link: "/blog/",
+  //     },
+  //     {
+  //       label: "Blog Right Sidebar",
+  //       link: "/blog/2/",
+  //     },
+  //     {
+  //       label: "Blog Left Sidebar",
+  //       link: "/blog/3/",
+  //     },
+  //     {
+  //       label: "Blog Details",
+  //       link: "/blog/details/",
+  //     },
+  //   ],
+  // },
   {
     label: "Contact Us",
     link: "/contact-us/",
